@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Docs for Yeomen Command
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This contains the docs for the amazing Yeomen Command system.
 
-Read the tutorial here:
+Get started here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://command.yeomen.ai
